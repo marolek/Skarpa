@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\programowanie\\C3D\\Skarpa\\Skarpa\\Skarpa.csproj": {}
+  },
+  "projects": {
+    "D:\\programowanie\\C3D\\Skarpa\\Skarpa\\Skarpa.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\programowanie\\C3D\\Skarpa\\Skarpa\\Skarpa.csproj",
+        "projectName": "Skarpa",
+        "projectPath": "D:\\programowanie\\C3D\\Skarpa\\Skarpa\\Skarpa.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\programowanie\\C3D\\Skarpa\\Skarpa\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.8"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net4.8",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net4.8",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+D:\programowanie\C3D\Skarpa\Skarpa\bin\Release\net4.8\Skarpa.dll
+D:\programowanie\C3D\Skarpa\Skarpa\bin\Release\net4.8\Skarpa.pdb
+D:\programowanie\C3D\Skarpa\Skarpa\obj\Release\net4.8\Skarpa.csproj.AssemblyReference.cache
+D:\programowanie\C3D\Skarpa\Skarpa\obj\Release\net4.8\Skarpa.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\C3D\Skarpa\Skarpa\obj\Release\net4.8\Skarpa.AssemblyInfoInputs.cache
+D:\programowanie\C3D\Skarpa\Skarpa\obj\Release\net4.8\Skarpa.AssemblyInfo.cs
+D:\programowanie\C3D\Skarpa\Skarpa\obj\Release\net4.8\Skarpa.csproj.CoreCompileInputs.cache
+D:\programowanie\C3D\Skarpa\Skarpa\obj\Release\net4.8\Skarpa.dll
+D:\programowanie\C3D\Skarpa\Skarpa\obj\Release\net4.8\Skarpa.pdb

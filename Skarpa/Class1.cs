@@ -142,7 +142,7 @@ namespace Skarpa
                 Type TypXRef = dbObj1.GetType();
                 if(!Array.Exists(dozwolone, x => x == TypXRef))
                 {
-                    ed.WriteMessage("Górna krawędź jest nieprawidłowa");
+                    ed.WriteMessage("\nGórna krawędź jest nieprawidłowa");
                     return;
                 }
                 gKraw = (Curve)dbObj1;
@@ -156,7 +156,7 @@ namespace Skarpa
                 TypXRef = dbObj2.GetType();
                 if(!Array.Exists(dozwolone, x => x == TypXRef))
                 {
-                    ed.WriteMessage("Dolna krawędź jest nieprawidłowa");
+                    ed.WriteMessage("\nDolna krawędź jest nieprawidłowa");
                     return;
                 }
                 Curve dKraw = (Curve)dbObj2;
